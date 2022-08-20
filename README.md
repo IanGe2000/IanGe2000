@@ -29,7 +29,7 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 ![YoutubeMusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 -->
-### Vedio
+### Video
 
 ![Bilibili](https://img.shields.io/badge/Bilibili-Ian2000-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)
 ![Youtube](https://img.shields.io/badge/Youtube-Ian_Ge-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
