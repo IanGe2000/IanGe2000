@@ -3,11 +3,10 @@
 ## I'm a student, music enthusiast, FPS lover, son
 
 - Graduated from [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/index.htm)
-- Currently a student of [Imperial College London](https://www.imperial.ac.uk/)
+- Graduated from [Imperial College London](https://www.imperial.ac.uk/)
 - Guitar player
 - 4-year Tenor in Student Choir of BIT
 - Music composer, sound engineer, mixer, album art designer
-- PUBG, CSGO, APEX player
 
 ## Find me here
 
@@ -43,10 +42,6 @@
 ![Ins](https://img.shields.io/badge/Instagram-iange2000-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-IanGe2000-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-IanGe2000%234718-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-### Gaming
-
-![Steam](https://img.shields.io/badge/Steam-iange2000-000000?style=for-the-badge&logo=steam&logoColor=white)
 
 ## Language Meter
 
